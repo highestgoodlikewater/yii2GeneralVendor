@@ -176,15 +176,6 @@ return array (
       '@kartik/popover' => $vendorDir . '/kartik-v/yii2-popover-x',
     ),
   ),
-  'kartik-v/yii2-editable' => 
-  array (
-    'name' => 'kartik-v/yii2-editable',
-    'version' => '9999999-dev',
-    'alias' => 
-    array (
-      '@kartik/editable' => $vendorDir . '/kartik-v/yii2-editable',
-    ),
-  ),
   'ibrarturi/yii2-latlng-finder' => 
   array (
     'name' => 'ibrarturi/yii2-latlng-finder',
@@ -228,6 +219,60 @@ return array (
     'alias' => 
     array (
       '@giovdk21/yii2SyntaxHighlighter' => $vendorDir . '/giovdk21/yii2-syntaxhighlighter',
+    ),
+  ),
+  'kartik-v/yii2-editable' => 
+  array (
+    'name' => 'kartik-v/yii2-editable',
+    'version' => '9999999-dev',
+    'alias' => 
+    array (
+      '@kartik/editable' => $vendorDir . '/kartik-v/yii2-editable',
+    ),
+  ),
+  'imanilchaudhari/yii2-currency-converter' => 
+  array (
+    'name' => 'imanilchaudhari/yii2-currency-converter',
+    'version' => '9999999-dev',
+    'alias' => 
+    array (
+      '@imanilchaudhari/CurrencyConverter' => $vendorDir . '/imanilchaudhari/yii2-currency-converter',
+    ),
+  ),
+  'moonlandsoft/yii2-phpexcel' => 
+  array (
+    'name' => 'moonlandsoft/yii2-phpexcel',
+    'version' => '1.1.0.0',
+    'alias' => 
+    array (
+      '@moonland/phpexcel' => $vendorDir . '/moonlandsoft/yii2-phpexcel',
+    ),
+  ),
+  'skeeks/yii2-mobile-detect' => 
+  array (
+    'name' => 'skeeks/yii2-mobile-detect',
+    'version' => '1.0.1.0',
+    'alias' => 
+    array (
+      '@skeeks/yii2/mobiledetect' => $vendorDir . '/skeeks/yii2-mobile-detect',
+    ),
+  ),
+  'drsdre/yii2-xmlsoccer' => 
+  array (
+    'name' => 'drsdre/yii2-xmlsoccer',
+    'version' => '0.0.6.0',
+    'alias' => 
+    array (
+      '@XMLSoccer' => $vendorDir . '/drsdre/yii2-xmlsoccer',
+    ),
+  ),
+  'skeeks/yii2-assets-auto-compress' => 
+  array (
+    'name' => 'skeeks/yii2-assets-auto-compress',
+    'version' => '1.0.3.0',
+    'alias' => 
+    array (
+      '@skeeks/yii2/assetsAuto' => $vendorDir . '/skeeks/yii2-assets-auto-compress',
     ),
   ),
 );

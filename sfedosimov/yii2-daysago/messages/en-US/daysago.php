@@ -1,5 +1,4 @@
 <?php
-
     return [
         'сегодня' => 'today',
         'вчера'   => 'yesterday',
